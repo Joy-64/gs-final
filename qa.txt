@@ -1,0 +1,6 @@
+(3)QA: es el area que se dedica a mejorar la calidad del sistema
+Testing: es el encargado de hacer pruebas para observar si el sistema funciona correctamente y es acorde a lo que quiere el cliente.
+Diferencias: es que el primero busca desarrollar un mejor sistema, potenciando sus funcionalidades (mas calidad) y el segundo, busca reconocer posicles fallos o inconvenientes que podrian llegar a tener los usuarios.
+Objetivos; 
+QA-> mas calidad
+Testing-> Lanzar al mercado un sistema que no tenga problemas en su funcionalidad.
