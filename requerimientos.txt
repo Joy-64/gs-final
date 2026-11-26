@@ -1,0 +1,6 @@
+(1)requerimientos funcionales; son las funcionalidades que debe tener el sistema para operar correctamente. Por ejemplo: tener un login.
+requerimientos no funcionales; son funcionalides o cualidades que el sistema debe tener para mejor su calidad. Por ejemplo: que cuando inicien sesión, se cargue la pagina rapidamente.
+
+(2)Reglas de negocio; son las condiciones que debe tener el sistema para funcionar, que son exclusivas de la forma de trabajar del negocio. Por ejemplo: que no se puedan superponer los turnos por regla del negocio, en un sistema de turnos.
+En cambio un requerimiento funcional, es la necesidad que debemos cumplir para crear una funcionalidad en el sistema.
+Este ultimo esta condicionado por el primero, debe respetar las reglas de negocio. 
