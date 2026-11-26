@@ -1,0 +1,15 @@
+(4)Scrum: es una modalidad de trabajo en la que se desarrolla un sistema en etapas que se llaman sprint. Estas son cortas, con objetivos claros.
+-Product Owner: es el cliente que pide el sistema y va a dar las necesidades a cumplir.
+-Sprint Master: el que va a supervisar, gestionar y resolver problemas en el proyecto.
+-Team: el equipo de trabajo que va a desarrollar el sistema.
+
+Artefactos:
+-Product Backlog: listado de funcionalidades
+-Sprint Backlog: la descripcion de las necesidades a desarrollar en las tareas
+-Implemento: es el sistema que se va a desarrollar ya funcionando.
+
+Un sprint serian los pasos a cumplir para lograr un objetivo en poco tiempo;
+
+COMO->ROL(USUARIO)
+QUIERO->NECESIDAD A cumplir
+PARA-> BENEFICIO
